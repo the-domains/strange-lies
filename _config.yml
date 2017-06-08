@@ -1,0 +1,35 @@
+name: Strange Lies
+analytics: {}
+github: true
+author:
+  name: Allen
+  email: my@notfake.email
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.6034190754871815
+color:
+  lightness: 0.2165437180587425
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  saturation: 0.7680758688990204
+  brandStrength: 0.1990599018053757
+  rhythmicContrast: 0.4518109940578721
+content_rating:
+  adult: false
+typography_spectrum: 0.5557758009526879
+opengraph: {}
